@@ -23,7 +23,7 @@ public static class MauiProgram
 			<ExampleClass xmlns="testnamespace">
 				<A>ValueA</A>
 				<B>ValueB</B>
-				<PropertyNew>This can by ignored</PropertyNew>
+				<PropertyNew>This can be ignored</PropertyNew>
 				<C>ValueC</C>
 				<D>ValueD</D>
 			</ExampleClass>
